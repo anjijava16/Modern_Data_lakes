@@ -19,3 +19,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/5849522/226155388-75f53ced-e029-44a4-89a3-b7a9fa2e832d.png)
+
+
+# Before and After
+https://medium.com/airbnb-engineering/upgrading-data-warehouse-infrastructure-at-airbnb-a4e18f09b6d5
