@@ -1,6 +1,6 @@
 # Modern_Data_lakes
 1. Dremio. 
-2. Starburst
+2. Starburst (Starburst is the commercial version of the open source Trino (formerly PrestoSQL). Trino is a SQL-based query engine that gives users the ability to run analytics on data lakes. Starburst is fundamentally designed to handle non-interactive use cases such as ad-hoc workloads)
 3. denodo
 4. athena
 
